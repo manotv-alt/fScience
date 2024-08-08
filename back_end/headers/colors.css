@@ -1,0 +1,268 @@
+/*Tela inicial*/
+
+#grid_tela_inicial {
+    background-image:linear-gradient(#030E4F, #041680);
+}
+
+#fscience_label {
+    color: white;
+}
+
+#welcome_label {
+    color: white;
+}
+
+#all_reserved {
+    color: white;
+}
+
+#add_code_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#add_code_buttom:hover {
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#add_entry_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#add_entry_buttom:hover {
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#my_codes_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#my_codes_buttom:hover {
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+/*Tela de arquivo*/
+
+#confirm_buttom {
+    background: rgb(13, 147, 9);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+#undo_buttom {
+    background: #ff7700;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+#undo_buttom:hover {
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+    background: #e46b00;
+}
+
+#confirm_buttom:hover {
+    font-size: 17px;
+    background: rgb(9, 118, 6);
+}
+
+#cancel_buttom {
+    background: rgb(188, 13, 13);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+#cancel_buttom:hover {
+    font-size: 17px;
+    background: rgb(158, 9, 9);
+}
+
+#grid_tela_arquivos {
+    background: white;
+    border-bottom: 1px solid rgb(201, 201, 201);
+}
+
+#choose_files_label {
+    color: black;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#grid_botoes_arquivos {
+    background:white;
+}
+
+#file_chooser_widget {
+    background-color: white;
+    border-right: 1px solid rgb(201, 201, 201);
+}
+
+#grid_tela_de_arquivos {
+    background-color: rgb(255, 255, 255);
+}
+
+/*tela de execução*/
+
+
+#tela_de_execucao {
+    background-image: linear-gradient(#030E4F, #041680);
+    /*background-image: url("/home/nuelzin/Desktop/fScience/front_end/logo_FScience.png");*/
+}
+
+#time_limit_label {
+    color: white;
+}
+
+#algorithm_label {
+    color: white;
+}
+
+#entry_label {
+    color: white;
+}
+
+#main_time_label {
+    color: white;
+}
+
+#seg_label {
+    color: white;
+}
+
+#exec_all_codes_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#exec_all_codes_buttom:hover {
+    color: black;
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#clear_select_entry_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#clear_select_entry_buttom:hover {
+    color: black;
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#clear_algorithm_select_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#clear_algorithm_select_buttom:hover {
+    color: black;
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#back_home_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#time_define_buttom {
+    font-size: 14px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#time_define_buttom:hover {
+    color: black;
+    font-size: 16px;
+    background: #F49F1C;
+}
+
+#back_home_buttom:hover {
+    color: black;
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#make_all_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#make_all_buttom:hover {
+    color: black;
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#show_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#show_buttom:hover {
+    color: black;
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#make_only_buttom {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#make_only_buttom:hover {
+    color: black;
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+/*Tela de Escolha p/ entrada*/
+
+#tela_de_escolha_de_codigo {
+    background-image:linear-gradient(#030E4F, #041680);
+}
+
+#confirm_buttom_choose_code_to_add_entry {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+
+
+#confirm_buttom_choose_code_to_add_entry:hover {
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#back_buttom_choose_code_to_add_entry {
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+#back_buttom_choose_code_to_add_entry:hover {
+    font-size: 17px;
+    background: #F49F1C;
+}
+
+#choose_algoritm_label {
+    color: white;
+}

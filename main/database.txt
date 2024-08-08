@@ -1,0 +1,15 @@
+2
+quicksort.cpp
+/home/nuelzin/Desktop/fScience/algoritmos_testes/quicksort.cpp
+3
+in1.txt
+/home/nuelzin/Desktop/fScience/algoritmos_testes/in1.txt
+in2.txt
+/home/nuelzin/Desktop/fScience/algoritmos_testes/in2.txt
+in3.txt
+/home/nuelzin/Desktop/fScience/algoritmos_testes/in3.txt
+insertion_sort.cpp
+/home/nuelzin/Desktop/fScience/algoritmos_testes/insertion_sort.cpp
+1
+in10.txt
+/home/nuelzin/Desktop/fScience/algoritmos_testes/in10.txt

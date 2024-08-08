@@ -1,0 +1,13 @@
+digraph {
+	graph [fontname=Arial, nodesep=0.125, ranksep=0.25];
+	node [fontcolor=white, fontname=Arial, height=0, shape=box, style=filled, width=0];
+	edge [fontname=Arial];
+	1 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="main\n100.00%\n(0.00%)"];
+	1 -> 2 [arrowsize="1.00", color="#ff0000", fontcolor="#ff0000", fontsize="10.00", label="100.00%\n1×", labeldistance="4.00", penwidth="4.00"];
+	2 [color="#ff0000", fontcolor="#ffffff", fontsize="10.00", label="quicksort(int*,int,int)\n100.00%\n(20.00%)\n399823×"];
+	2 -> 2 [arrowsize="1.00", color="#ff0000", fontcolor="#ff0000", fontsize="10.00", label="399822×", labeldistance="4.00", penwidth="4.00"];
+	2 -> 3 [arrowsize="0.89", color="#e1b505", fontcolor="#e1b505", fontsize="10.00", label="80.00%\n199911×", labeldistance="3.20", penwidth="3.20"];
+	3 [color="#e1b505", fontcolor="#ffffff", fontsize="10.00", label="partition(int*,int,int)\n80.00%\n(60.00%)\n199911×"];
+	3 -> 4 [arrowsize="0.45", color="#0c738d", fontcolor="#0c738d", fontsize="10.00", label="20.00%\n3541622×", labeldistance="0.80", penwidth="0.80"];
+	4 [color="#0c738d", fontcolor="#ffffff", fontsize="10.00", label="swap_func(int*,int*)\n20.00%\n(20.00%)\n3541622×"];
+}
