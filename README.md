@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/S-logo.png" width="100">
+  <img src="https://kcwpqwvrplusnhkkeyfa.supabase.co/storage/v1/object/sign/fig/logo_FScience.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJmaWcvbG9nb19GU2NpZW5jZS5wbmciLCJpYXQiOjE3MjMzMjM2MTAsImV4cCI6MzMwMDEyMzYxMH0.kzyJFHu7kfkhbiRYyz1jSgG5Q3ei9dh72qk0QIxXIjs&t=2024-08-11T00%3A00%3A10.325Z" width="200">
 </div>
 
 <h1 align="center"> fScience </h1>
@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O fScience é um programa que faz a análise do desempenho de algoritmos, utilizando gráficos do Gprof.
+
 
 
 ## 🔖 Layout
