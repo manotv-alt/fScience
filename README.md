@@ -13,7 +13,6 @@ Programa feito para a materia Algoritmo e Estrutura de Dados I do curso Ciencias
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-autores">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -30,37 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O fScience é um programa que faz a análise do desempenho de algoritmos, utilizando gráficos do Gprof.
 
-
-
-## 🔖 Layout
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/Captura%20de%20tela%202024-08-01%20142018%20-%20Copia.png" alt="Descrição da Imagem 1" width="500">
-      </td>
-      <td>
-        <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/Captura%20de%20tela%202024-08-01%20142047.png" alt="Descrição da Imagem 2" width="500">
-      </td>
-    <tr/>
-    <tr>
-      <td>
-        <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/Captura%20de%20tela%202024-08-01%20142030%20-%20Copia.png" alt="Descrição da Imagem 3" width="500">
-      </td>
-      <td>
-        <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/Captura%20de%20tela%202024-08-01%20142037.png" alt="Descrição da Imagem 4" width="500">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/Captura%20de%20tela%202024-08-01%20142131.png" alt="Descrição da Imagem 5" width="500">
-      </td>
-      <td>
-        <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/Captura%20de%20tela%202024-08-01%20142328.png" alt="Descrição da Imagem 6" width="500">
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 ## 💻 Autores
